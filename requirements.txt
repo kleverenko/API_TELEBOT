@@ -1,3 +1,4 @@
 pytelegrambotapi
+json
 requests
-BeautifulSoup4
+dataclasses
